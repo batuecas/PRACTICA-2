@@ -5,9 +5,11 @@ En esta práctica se elabora un caso práctico orientado a aprender a identifica
 
 Se adjuntan los siguientes documentos:
 
-Código R generado.
-Practica2.pdf con la resolución del ejercicio propuesto.
-Ficheros CSV utilizados.
+- Código R generado.
+
+- Practica2.pdf con la resolución del ejercicio propuesto.
+
+- Ficheros CSV utilizados.
 
 Además, en el siguiente enlace, podemos encontrar un breve resumen con los estudios realizados, así como, el procedimiento seguido.
 
